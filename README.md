@@ -122,13 +122,11 @@ I'm **Tameem Ahamed** from **Chittagong, Bangladesh**. I enjoy Competitive Progr
 
 ## Contact
 
+* **Portfolio:** [tameemahamed.vercel.app](https://tameemahamed.vercel.app)
 * **Email:** [ahamedtameem00@gmail.com](mailto:ahamedtameem00@gmail.com)
-* **Phone:** +880 1581-882268
-* **Location:** Chittagong, Bangladesh — [Map](https://maps.google.com/maps?q=Chittagong,%20Bangladesh&t=&z=13&ie=UTF8&iwloc=&output=embed)
 * **GitHub:** [https://github.com/tameemahamed](https://github.com/tameemahamed)
 * **LinkedIn:** [https://www.linkedin.com/in/tameemahamed/](https://www.linkedin.com/in/tameemahamed/)
 * **Instagram:** [https://www.instagram.com/tameem_ahamed/](https://www.instagram.com/tameem_ahamed/)
-* **Facebook:** [https://facebook.com/tameem.ahamed.501](https://facebook.com/tameem.ahamed.501)
 
 ---
 
