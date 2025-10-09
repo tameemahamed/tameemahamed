@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm **Tameem Ahamed** from **Chittagong, Bangladesh**. I build production‑ready web apps, ML pipelines, and developer tools. I enjoy competitive programming and solving problems with clean, reproducible solutions. I hold certifications in **PHP/Laravel** and **Google Data Analytics**.</p>
+I'm **Tameem Ahamed** from **Chittagong, Bangladesh**. I build production‑ready web apps, ML pipelines, and developer tools. I enjoy competitive programming and solving problems with clean, reproducible solutions. I hold certifications in **PHP/Laravel** and **Google Data Analytics**.
 
 ###
 
