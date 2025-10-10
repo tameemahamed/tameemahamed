@@ -32,10 +32,6 @@
   <img src="https://streak-stats.demolab.com?user=tameemahamed&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="" alt="streak graph"  />
 </div>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=tameemahamed&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&v=20351011" alt="streak graph" />
-</div>
-
 ###
 
 <h2>Languages and Frameworks</h2>
