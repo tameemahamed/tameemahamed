@@ -33,7 +33,7 @@
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=tameemahamed&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&v=20251011" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=tameemahamed&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&v=20351011" alt="streak graph" />
 </div>
 
 ###
