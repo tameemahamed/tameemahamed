@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm <b>Tameem Ahamed</b> from <b>Chittagong, Bangladesh</b>. I build production-ready web apps, ML pipelines, and developer tools. I enjoy competitive programming and solving problems with clean, reproducible solutions. I hold certifications in <b>PHP/Laravel</b> and <b>Google Data Analytics</b>. To learn more about me, please visit my <a href="https://tameemahamed.vercel.app">portfolio</a>, and feel free to explore my repositories. 
+<p align="left">I'm <b>Tameem Ahamed</b> from <b>Chittagong, Bangladesh</b>. I build production-ready web apps, ML pipelines, and developer tools. I enjoy competitive programming and solving problems with clean, reproducible solutions. I hold certifications in <b>PHP/Laravel</b> and <b>Google Data Analytics</b>. To learn more about me, please visit my <a href="https://tameemahamed.vercel.app" target="_blank">portfolio</a>, and feel free to explore my repositories. 
 
 ###
 
@@ -19,7 +19,7 @@
 
 <!-- Most used languages -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tameemahamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=tokyonight&hide_border=false" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tameemahamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="" alt="languages graph"  />
 </div>
 
 ###
